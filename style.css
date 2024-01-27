@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  max-width: 1400px;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.left__side {
+  display: flex;
+  width: 30%;
+}
+
+.right__side {
+  display: flex;
+  flex-direction: row;
+  width: 70%;
+}
+
+.header__section {
+  display: flex;
+  height: 40%;
+}
+
+.signUp__form {
+  display: flex;
+  height: 20%;
+}
+
+.register {
+  display: flex;
+  height: 40%;
+}
